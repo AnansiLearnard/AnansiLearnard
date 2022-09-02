@@ -17,11 +17,7 @@ Here's my ArtStation: https://www.artstation.com/zlux
 
 **Proficiencies**
 
-*Maya*
-*Substance Painter* 
-*Clip Studio Paint*
-*Photoshop*
-*Blender*
+*Maya*, *Substance Painter*, *Clip Studio Paint*, *Photoshop*, *Blender*
 
 <!--!
 **AnansiLearnard/AnansiLearnard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
