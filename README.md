@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Anansi 👋
 
-<!--
+
+Hey there! I'm Anansi, an ODU student who is currently persuing a degree in Game Design. I like to make art, I like to write, and most importantly I love to make videogames! 
+
+<!--!
 **AnansiLearnard/AnansiLearnard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: she/they ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
